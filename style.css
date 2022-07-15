@@ -113,6 +113,9 @@ a {
     font-weight: bold;
     padding-top: 28px;
 }
+.about-text li {
+    padding-bottom: 28px;
+}
 .about-text li::before {
     content: '';
     display: inline-block;
