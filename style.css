@@ -98,11 +98,13 @@ a {
 .about-content {
     font-weight: bold;
     text-align: center;
-    line-height: 42px;
     font-weight: bold;
 }
+.about img {
+    padding-bottom: 20px;
+}
 .about-content h3 {
-    padding-top: 20px;
+    line-height: 42px;
 }
 .border-line {
     border-bottom: 1px solid #000000;
